@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @GitTristan
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning web development & cybersecurity
-- 📫 Reach me on discord tristanclimbs
+![Hey There](https://github.com/GitTristan/GitTristan/blob/main/readmeimg.png)
