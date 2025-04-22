@@ -1,1 +1,1 @@
-![Hey There](https://github.com/GitTristan/GitTristan/blob/main/readmeimg.png)
+![GitHub Stats](https://streak-stats.demolab.com?user=GitTristan&theme=dark&hide_border=true)
